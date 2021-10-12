@@ -66,20 +66,63 @@ header{
  }
  
  
- .radius{
+ .editional{
      display: inline;
-     background-color: yellow;
+     background-color: blue;
      border-radius: 20% ;
      padding: 4px;
      
  }
- li{
-     padding: 10px;
-     font-size: 22px;
+ .q1goals{
+     display: inline;
+     background-color: rgb(197, 12, 197);
+     border-radius: 20% ;
+     padding: 4px;
+     
+ }
+ .recruting{
+     display: inline;
+     background-color: lightgreen;
+     border-radius: 20% ;
+     padding: 4px;
+     
+ }
+ .mobile{
+     display: inline;
+     background-color: orange;
+     border-radius: 20% ;
+     padding: 4px;
+     
+ }
+ .web{
+     display: inline;
+     background-color: greenyellow;
+     border-radius: 20% ;
+     padding: 4px;
+     
+ }
+ .sales{
+     display: inline;
+     background-color: lightpink;
+     border-radius: 20% ;
+     padding: 4px;
      
  }
 
+
+ 
+ li{
+     padding: 10px;
+     font-size: 22px;
+     list-style-type: '✅';
+  padding-inline-start: 1ch;
+  }
+
+     
+  
+
+     
+
+ 
      
  
-
- /* list-style: square inside url("sqpurple.gif"); */
